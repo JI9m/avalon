@@ -1,0 +1,16 @@
+{
+  "name": "avalon",
+  "version": "1.0.0",
+  "description": "bot.js",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "strftime": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JI9m",
+  "license": "ISC"
+}
